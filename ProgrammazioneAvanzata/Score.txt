@@ -1,0 +1,4 @@
+
+Human: jack vs Computer: nick 1-0
+Human: jack vs Computer: nick 2-0
+Human: jack vs Computer: bro 1-0
