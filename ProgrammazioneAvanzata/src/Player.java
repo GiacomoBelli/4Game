@@ -8,14 +8,9 @@ public class Player {
 	private int value;
 	private int countWin = 0;
 
-	public void setName(String NamePlayer) {
-		this.setNamePlayer(NamePlayer);
-	}
-
 	public void setTurn(boolean Turn) {
 		this.turn = Turn;
 	}
-
 	public boolean getTurn() {
 		return turn;
 	}

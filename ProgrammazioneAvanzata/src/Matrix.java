@@ -5,7 +5,6 @@ public class Matrix extends Player {
 	private int rows;
 	private int cols;
 	public int[][] Mat;
-	int prova = 1;
 
 	Matrix(int r, int c) {
 		rows = r;

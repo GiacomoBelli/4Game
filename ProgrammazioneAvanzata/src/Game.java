@@ -13,7 +13,6 @@ public class Game {
 		int min = 1;
 		int max = 7;
 		int position;
-		String input = null;
 		int random;
 		Scanner in = new Scanner(System.in);
 		System.out.println("Write your name");
